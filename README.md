@@ -3,4 +3,4 @@ Encriptador de mensajes
 
 ### Primer challenge ALURA LATAM
 
-[link](https://luis-maz0.github.io/codificador.github.io/){:target="_blank"}
+[VER PROYECTO](https://luis-maz0.github.io/codificador.github.io/)
